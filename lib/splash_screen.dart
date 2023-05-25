@@ -33,8 +33,8 @@ class SplashScreen extends StatelessWidget {
         debugPrint("On End");
       },
       childWidget: SizedBox(
-        height: 200,
-        width: 200,
+        height: 269,
+        width: 269,
         child: Image.asset("assets/images/icon/logo.png"),
       ),
       onAnimationEnd: () => debugPrint("On Fade In End"),

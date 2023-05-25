@@ -23,6 +23,7 @@ class PuzzleWordList extends StatefulWidget {
   final UserModel selectedUser;
   final int elapsedStopwatchTime;
   final GlobalKey<StopwatchScreenState> stopwatchKey;
+  final Function(int) getCurrentScore;
 
   const PuzzleWordList({
     super.key,
@@ -31,6 +32,7 @@ class PuzzleWordList extends StatefulWidget {
     this.elapsedStopwatchTime = 0,
     required this.stopwatchKey,
     required this.listChars,
+    required this.getCurrentScore,
   });
 
   @override
@@ -122,7 +124,16 @@ class _PuzzleWordListState extends State<PuzzleWordList> {
     return Column(children: list);
   }
 
+  void getCurrentScore() {
+    int score = scoreOnly(
+      widget.selectedUser.level!,
+      widget.answerList.where((item) => item.done == true).toList().length,
+    );
+    widget.getCurrentScore(score);
+  }
+
   void puzzledSolved() {
+    getCurrentScore();
     int puzzleLength = widget.answerList.length;
     int solvedLength = 0;
     for (var word in widget.answerList) {
@@ -196,6 +207,18 @@ class _PuzzleWordListState extends State<PuzzleWordList> {
     scoreViewModel.addScore(scoreModel);
 
     updateGamesPlayed();
+  }
+
+  int scoreOnly(LevelModel level, int wordCount) {
+    int perWordScore = 0;
+    if (level == LevelModel.easy) {
+      perWordScore = 10;
+    } else if (level == LevelModel.medium) {
+      perWordScore = 15;
+    } else {
+      perWordScore = 20;
+    }
+    return perWordScore * wordCount;
   }
 
   int scoreGenerator(LevelModel level, int wordCount) {

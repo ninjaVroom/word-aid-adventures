@@ -40,6 +40,7 @@ class _CrossWordWidgetState extends State<CrossWordWidget> {
   late ValueNotifier<List<int>> charsDone;
 
   int elapsedStopwatchTime = 0;
+  int currentScore = 0;
 
   @override
   void initState() {
@@ -114,6 +115,13 @@ class _CrossWordWidgetState extends State<CrossWordWidget> {
                               setState(() => elapsedStopwatchTime = p0);
                             });
                           },
+                        ),
+                        Text(
+                          "Score: $currentScore",
+                          style: const TextStyle(
+                            fontSize: 30,
+                            fontWeight: FontWeight.bold,
+                          ),
                         ),
                         PuzzleResetButton(onPressed: () {
                           WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -372,6 +380,11 @@ class _CrossWordWidgetState extends State<CrossWordWidget> {
           selectedUser: widget.selectedUser,
           elapsedStopwatchTime: elapsedStopwatchTime,
           stopwatchKey: stopwatchKey,
+          getCurrentScore: (p0) {
+            WidgetsBinding.instance.addPostFrameCallback((_) {
+              setState(() => currentScore = p0);
+            });
+          },
         );
       },
     );

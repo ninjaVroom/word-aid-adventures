@@ -61,7 +61,7 @@ class StopwatchScreenState extends State<StopwatchScreen> {
           Text(
             formatTime(elapsedTime),
             style: const TextStyle(
-              fontSize: 36,
+              fontSize: 30,
               fontWeight: FontWeight.bold,
             ),
           ),

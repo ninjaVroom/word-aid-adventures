@@ -1,0 +1,199 @@
+{
+    "words": [{
+            "word": "Banana",
+            "description": "A long curved fruit with a yellow skin and sweet, soft flesh."
+        },
+        {
+            "word": "Carrot",
+            "description": "An orange root vegetable that is crunchy, sweet, and often used in salads and cooking."
+        },
+        {
+            "word": "Dolphin",
+            "description": "A highly intelligent marine mammal known for its playful behavior and distinctive appearance."
+        },
+        {
+            "word": "Elephant",
+            "description": "A large, herbivorous mammal with a long trunk, large ears, and tusks, typically found in Africa and Asia."
+        },
+        {
+            "word": "Flower",
+            "description": "The reproductive structure found in plants, typically colorful and fragrant, and used for pollination."
+        },
+        {
+            "word": "Guitar",
+            "description": "A stringed musical instrument with a hollow body and usually played by plucking or strumming the strings."
+        },
+        {
+            "word": "Honey",
+            "description": "A sweet, sticky substance produced by bees from the nectar of flowers and used as a natural sweetener."
+        },
+        {
+            "word": "Island",
+            "description": "A piece of land surrounded by water, often smaller than a continent and isolated from other land masses."
+        },
+        {
+            "word": "Jacket",
+            "description": "A short coat or outer garment worn on the upper body, typically with sleeves and fastened at the front."
+        },
+        {
+            "word": "Kangaroo",
+            "description": "A large marsupial with powerful hind legs, native to Australia, known for its ability to hop and carry its young in a pouch."
+        },
+        {
+            "word": "Lemon",
+            "description": "A citrus fruit with a sour taste, typically yellow in color, and often used for its juice or zest in cooking and beverages."
+        },
+        {
+            "word": "Monkey",
+            "description": "A small to medium-sized primate that is agile and arboreal, often characterized by its long tail and dexterous hands."
+        },
+        {
+            "word": "Noodle",
+            "description": "A long, thin strip of pasta or dough, often cooked by boiling and commonly used in various cuisines."
+        },
+        {
+            "word": "Octopus",
+            "description": "A marine mollusk with a soft body, eight tentacles, and a rounded head, known for its intelligence and ability to change color."
+        },
+        {
+            "word": "Penguin",
+            "description": "A flightless bird that lives in the Southern Hemisphere, characterized by its upright stance, black and white plumage, and waddling walk."
+        },
+        {
+            "word": "Quilt",
+            "description": "A bed covering made of two layers of fabric with a layer of padding in between, typically stitched together in a decorative pattern."
+        },
+        {
+            "word": "Rabbit",
+            "description": "A small mammal with long ears, a short fluffy tail, and strong hind legs, known for its ability to hop and reproduce rapidly."
+        },
+        {
+            "word": "Snake",
+            "description": "A long, legless reptile that moves by slithering and is often found in a variety of habitats."
+        },
+        {
+            "word": "Tomato",
+            "description": "A red or yellowish fruit with a juicy pulp, used as a vegetable in cooking."
+        },
+        {
+            "word": "Unicorn",
+            "description": "A mythical creature resembling a horse with a single horn on its forehead."
+        },
+        {
+            "word": "Volcano",
+            "description": "A mountain or hill with a crater or vent through which lava, rock fragments, ash, and gases are ejected from the Earth's interior."
+        },
+        {
+            "word": "Watermelon",
+            "description": "A large, juicy fruit with a hard rind and sweet, watery red or pink flesh."
+        },
+        {
+            "word": "Fox",
+            "description": "A small to medium-sized mammal with a bushy tail, a pointed snout, and a reputation for cleverness."
+        },
+        {
+            "word": "Zebra",
+            "description": "A large, wild animal with black and white stripes on its body, resembling a horse."
+        },
+        {
+            "word": "Butterfly",
+            "description": "An insect with brightly colored wings that undergoes metamorphosis, starting as a caterpillar and transforming into a butterfly."
+        },
+        {
+            "word": "Coconut",
+            "description": "A large fruit with a hard shell and edible white flesh and water inside."
+        },
+        {
+            "word": "Daisy",
+            "description": "A small flower with white petals and a yellow center, often used to symbolize innocence or purity."
+        },
+        {
+            "word": "Eagle",
+            "description": "A large bird of prey with a hooked beak, strong talons, and a keen eyesight."
+        },
+        {
+            "word": "Firefly",
+            "description": "A nocturnal beetle that produces light from its abdomen, creating a flickering or flashing effect."
+        },
+        {
+            "word": "Gazelle",
+            "description": "A swift and graceful antelope known for its slender build, speed, and leaping ability."
+        },
+        {
+            "word": "Hibiscus",
+            "description": "A flowering plant with large, colorful blossoms that are often used as ornamental flowers."
+        },
+        {
+            "word": "Iguana",
+            "description": "A large lizard native to tropical areas, often kept as a pet."
+        },
+        {
+            "word": "Jasmine",
+            "description": "A fragrant flower with white or yellowish blossoms, often used in perfumes and teas."
+        },
+        {
+            "word": "Koala",
+            "description": "A small, tree-dwelling marsupial native to Australia, known for its round face, fluffy ears, and eucalyptus diet."
+        },
+        {
+            "word": "Lily",
+            "description": "A large, showy flower with various colors and delicate petals."
+        },
+        {
+            "word": "Mango",
+            "description": "A juicy tropical fruit with a sweet, yellow flesh and a large flat seed in the center."
+        },
+        {
+            "word": "Nightingale",
+            "description": "A small, migratory songbird known for its melodious and beautiful singing."
+        },
+        {
+            "word": "Olive",
+            "description": "A small oval fruit with a hard pit and a bitter or tangy taste, commonly used to produce oil and as a table olive."
+        },
+        {
+            "word": "Peacock",
+            "description": "A large bird with a long, colorful tail that can be expanded and displayed in a fan-like shape."
+        },
+        {
+            "word": "Quokka",
+            "description": "A small marsupial native to Australia known for its friendly and smiley appearance."
+        },
+        {
+            "word": "Rose",
+            "description": "A fragrant flower with a symmetrical arrangement of petals, available in a variety of colors."
+        },
+        {
+            "word": "Sunflower",
+            "description": "A tall plant with a large, bright yellow flower head that follows the movement of the sun."
+        },
+        {
+            "word": "Tulip",
+            "description": "A bulbous plant with large, colorful cup-shaped flowers, symbolizing love and springtime."
+        },
+        {
+            "word": "Umbrella",
+            "description": "A device consisting of a collapsible canopy supported by a metal frame, used to protect against rain or sunlight."
+        },
+        {
+            "word": "Violet",
+            "description": "A small flowering plant with purple or blue-violet petals."
+        },
+        {
+            "word": "Wisteria",
+            "description": "A climbing plant with drooping clusters of fragrant flowers in shades of purple, blue, or white."
+        },
+        {
+            "word": "Xeranthemum",
+            "description": "A type of flowering plant that produces colorful, papery flowers that can be preserved as dried arrangements."
+        },
+        {
+            "word": "Yarrow",
+            "description": "A flowering plant with clusters of small, aromatic flowers that are often white or yellow."
+        },
+        {
+            "word": "Zinnia",
+            "description": "A colorful flowering plant with large, daisy-like flowers that attract butterflies."
+        }
+    ]
+}

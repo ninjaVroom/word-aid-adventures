@@ -1,0 +1,103 @@
+{
+    "words": [{
+            "word": "Apple",
+            "description": "A round fruit that is typically red, green, or yellow and is commonly eaten fresh or used in various recipes."
+        },
+        {
+            "word": "Ball",
+            "description": "A spherical object used in various sports and games, typically made of rubber, leather, or plastic."
+        },
+        {
+            "word": "Cat",
+            "description": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws."
+        },
+        {
+            "word": "Dog",
+            "description": "A domesticated carnivorous mammal that is commonly kept as a pet or used for various purposes."
+        },
+        {
+            "word": "Egg",
+            "description": "The oval reproductive body laid by female birds, reptiles, fish, and some other animals, containing the developing embryo."
+        },
+        {
+            "word": "Fish",
+            "description": "A limbless cold-blooded vertebrate animal with gills and fins, living wholly in water."
+        },
+        {
+            "word": "Game",
+            "description": "An activity or sport involving competition, skill, or chance, often undertaken for entertainment or enjoyment."
+        },
+        {
+            "word": "Hat",
+            "description": "A covering for the head, typically with a shaped crown and brim, worn for protection, fashion, or ceremony."
+        },
+        {
+            "word": "Ice",
+            "description": "The solid form of water, formed by freezing below 0 degrees Celsius (32 degrees Fahrenheit)."
+        },
+        {
+            "word": "Jam",
+            "description": "A sweet spread or preserve made from fruit and sugar boiled to a thick consistency."
+        },
+        {
+            "word": "Key",
+            "description": "A small metal or plastic device used to open locks or operate machinery."
+        },
+        {
+            "word": "Lion",
+            "description": "A large, powerful cat with a tawny coat, known for its majestic appearance and loud roar."
+        },
+        {
+            "word": "Moon",
+            "description": "The natural satellite of the Earth, which orbits around it and reflects sunlight to appear as a shining disk in the night sky."
+        },
+        {
+            "word": "Nest",
+            "description": "A structure built by birds or other animals to house and protect their eggs or young."
+        },
+        {
+            "word": "Orange",
+            "description": "A citrus fruit with a bright orange color and a sweet, tangy flavor."
+        },
+        {
+            "word": "Pig",
+            "description": "A domesticated mammal with a stout body, short legs, and a snout used for rooting in the soil."
+        },
+        {
+            "word": "Queen",
+            "description": "A female ruler or the wife or widow of a king."
+        },
+        {
+            "word": "Rose",
+            "description": "A flowering shrub or vine with typically thorny stems and fragrant flowers in various colors."
+        },
+        {
+            "word": "Sun",
+            "description": "The star at the center of the solar system, around which the Earth and other planets revolve, providing heat and light."
+        },
+        {
+            "word": "Tree",
+            "description": "A tall woody perennial plant with a single main trunk and many branches, typically bearing leaves or needles and producing seeds or fruits."
+        },
+        {
+            "word": "Umbrella",
+            "description": "A portable device consisting of a collapsible canopy supported by a metal frame, used for protection against rain or sunlight."
+        },
+        {
+            "word": "Violin",
+            "description": "A stringed musical instrument played with a bow, typically having four strings and a hollow wooden body."
+        },
+        {
+            "word": "Whale",
+            "description": "A very large marine mammal with a streamlined body, a horizontal tail fin, and a blowhole on top of the head."
+        },
+        {
+            "word": "Xylophone",
+            "description": "A musical instrument consisting of a row of wooden bars of different lengths that are struck with mallets to produce musical tones."
+        },
+        {
+            "word": "Yogurt",
+            "description": "A semi-solid dairy product made by fermenting milk with live bacteria cultures, often eaten as a healthy snack or used in cooking."
+        }
+    ]
+}
